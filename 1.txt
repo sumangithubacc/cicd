@@ -1,2 +1,3 @@
 this is my first file
-adding few mode details
+adding few mode detail
+just added branch infos
